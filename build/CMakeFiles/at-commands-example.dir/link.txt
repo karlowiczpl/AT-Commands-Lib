@@ -1,0 +1,1 @@
+/run/current-system/sw/bin/cc -Wl,--dependency-file=CMakeFiles/at-commands-example.dir/link.d "CMakeFiles/at-commands-example.dir/example.c.o" -o at-commands-example  libat-commands.a

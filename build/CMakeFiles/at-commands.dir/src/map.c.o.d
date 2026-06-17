@@ -1,0 +1,29 @@
+CMakeFiles/at-commands.dir/src/map.c.o: \
+ /home/karol/Projects/AT-Commands-Lib/src/map.c \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/stdc-predef.h \
+ /nix/store/qxaq7jz61a6zkr2mq49i0zvqip2m2jj8-gcc-15.2.0/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include/stdint.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/stdint.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/libc-header-start.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/features.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/features-time64.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/wordsize.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/timesize.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/sys/cdefs.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/long-double.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/gnu/stubs.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/gnu/stubs-64.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/types.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/typesizes.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/time64.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/wchar.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/stdint-intn.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/stdint-uintn.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/stdint-least.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/string.h \
+ /nix/store/qxaq7jz61a6zkr2mq49i0zvqip2m2jj8-gcc-15.2.0/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include/stddef.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/types/locale_t.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/bits/types/__locale_t.h \
+ /nix/store/15h9askp4k1lx44d9871wid23j2a8ijp-glibc-2.42-61-dev/include/strings.h \
+ /nix/store/qxaq7jz61a6zkr2mq49i0zvqip2m2jj8-gcc-15.2.0/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include/stdbool.h \
+ /home/karol/Projects/AT-Commands-Lib/inc/map.h \
+ /home/karol/Projects/AT-Commands-Lib/inc/parser.h
