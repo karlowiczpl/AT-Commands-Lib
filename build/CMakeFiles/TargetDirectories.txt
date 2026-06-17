@@ -1,4 +1,0 @@
-/home/karol/Projects/AT-Commands-Lib/build/CMakeFiles/at-commands.dir
-/home/karol/Projects/AT-Commands-Lib/build/CMakeFiles/at-commands-example.dir
-/home/karol/Projects/AT-Commands-Lib/build/CMakeFiles/edit_cache.dir
-/home/karol/Projects/AT-Commands-Lib/build/CMakeFiles/rebuild_cache.dir

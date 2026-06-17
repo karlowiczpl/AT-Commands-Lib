@@ -1,2 +1,0 @@
-/run/current-system/sw/bin/ar qc libat-commands.a "CMakeFiles/at-commands.dir/src/map.c.o" "CMakeFiles/at-commands.dir/src/parser.c.o"
-/run/current-system/sw/bin/ranlib libat-commands.a
