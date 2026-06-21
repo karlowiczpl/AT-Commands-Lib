@@ -94,3 +94,14 @@ bool arguments_to_int(char** cstrs)
 
   return complited;
 }
+
+void to_upper(char* cstr)
+{
+  for(uint8_t i = 0; cstr[i] != '\0'; i++)
+  {
+    if(cstr[i] >= 97 && cstr[i] <= 122)
+    {
+      cstr[i] -= 32;     
+    }
+  }
+}

@@ -4,22 +4,18 @@
 
 #include "map.h"
 
-uint8_t exec_mapper(MAP_T* mapper_ptr, PARSED_DATA_T* data)
+void exec_mapper(MAP_T* mapper_ptr, PARSED_DATA_T* data)
 {
   for(uint8_t i = 0; mapper_ptr[i].fun_name[0] != 0; i++)
   {
-    if(!strcmp(mapper_ptr[i].fun_name, data->function))
+    if(strcmp(mapper_ptr[i].fun_name, data->function) == 0)
     {
       check_arguments_count(mapper_ptr[i], data);
       check_max_arguments_value(mapper_ptr[i], data);
 
-      // if(execute_error(data))     return 1;
-
-      return mapper_ptr[i].ptr(data);
+      mapper_ptr[i].ptr(data);
     }
   }
-
-  return 0; 
 }
 
 void check_arguments_count(MAP_T map, PARSED_DATA_T* data)

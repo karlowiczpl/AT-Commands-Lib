@@ -26,5 +26,6 @@ enum ERRORS_E
 
 PARSED_DATA_T* parse_at_command(char* command);
 bool compare_functions(char* function);
+void to_upper(char* cstr);
 
 #endif // !PARSER_ABSTRACT_H
